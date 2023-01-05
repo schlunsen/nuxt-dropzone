@@ -21,8 +21,8 @@
     "format": "prettier './**/*.{js,ts,json,vue}' --write"
   },
   "devDependencies": {
-    "jest": "^23.4.1",
-    "nuxt": "^2.4.0",
+    "jest": "^29.3.1",
+    "nuxt": "^2.15.8",
     "prettier": "^1.16.1",
     "puppeteer": "^1.6.1"
   },
